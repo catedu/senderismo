@@ -1,306 +1,238 @@
 ::1:: Como federados deberemos intentar siempre (varias opciones son posibles): {
-Realizar los pasos necesarios para planificar correctamente la actividad.
-Correcto: la planificación es fundamental y la debemos hacer nosotros mismos.
-Evitar ir a lugares donde suceden frecuentes rescates, independientemente de nuestra capacidad.
-Incorrecto: el elevado número de rescates que se dan en según que recorridos viene provocado muchas veces por el elevado número de montañeros que los frecuentan, no tanto por su dificultad o peligrosidad.
-Que todos los participantes colaboren en la planificación de la actividad, pues también a ellos les interesa.
-Correcto: cuanto más se involucren en la preparación de la actividad el resto de los participantes, más fácil será que después ellos también puedan tomar decisiones correctas y elaborar planes alternativos.
-Transmitir al resto de los participantes del grupo una idea muy clara de qué pueden y qué no puede hacer, en función de lo que nosotros le hayamos dicho.
-Incorrecto: no conviene que seamos nosotros los que le digamos lo que puede o no hacer, pues esa también es su responsabilidad.
+=Realizar los pasos necesarios para planificar correctamente la actividad.
+#Correcto: la planificación es fundamental y la debemos hacer nosotros mismos.
+~Evitar ir a lugares donde suceden frecuentes rescates, independientemente de nuestra capacidad.
+#Incorrecto: el elevado número de rescates que se dan en según que recorridos viene provocado muchas veces por el elevado número de montañeros que los frecuentan, no tanto por su dificultad o peligrosidad.
+=Que todos los participantes colaboren en la planificación de la actividad, pues también a ellos les interesa.
+#Correcto: cuanto más se involucren en la preparación de la actividad el resto de los participantes, más fácil será que después ellos también puedan tomar decisiones correctas y elaborar planes alternativos.
+~Transmitir al resto de los participantes del grupo una idea muy clara de qué pueden y qué no puede hacer, en función de lo que nosotros le hayamos dicho.
+#Incorrecto: no conviene que seamos nosotros los que le digamos lo que puede o no hacer, pues esa también es su responsabilidad.
 }
 
 ::2:: Como federado, ¿qué fórmula te parece más acertada para conseguir este fin {
-Exponer al resto del grupo las características de la actividad que dicen querer hacer, aportando todos los datos objetivos del recorrido (horarios, metros de desnivel, distancia, dificultades técnicas, etc..) e intentando que las pueda comparar con los datos de otras actividades que ya conozca.
-Correcto: esto es lo que conviene hacer.
-Ser tajante y decir al resto del grupo que no debe ir allí por su seguridad, que es muy peligroso y que vaya a otro sitio que le vamos a decir nosotros, que no está preparado para afrontar las dificultades de la excursión que se plantea y que es una imprudencia ir.
-Incorrecto: nunca deberíamos decir qué se puede hacer y qué no, siempre debemos apelar a la responsabilidad de los participantes ante sus acciones, puesto que una vez en el recorrido lo que sucederá dependerá de sus decisiones.
+=Exponer al resto del grupo las características de la actividad que dicen querer hacer, aportando todos los datos objetivos del recorrido (horarios, metros de desnivel, distancia, dificultades técnicas, etc..) e intentando que las pueda comparar con los datos de otras actividades que ya conozca.
+#Correcto: esto es lo que conviene hacer.
+~Ser tajante y decir al resto del grupo que no debe ir allí por su seguridad, que es muy peligroso y que vaya a otro sitio que le vamos a decir nosotros, que no está preparado para afrontar las dificultades de la excursión que se plantea y que es una imprudencia ir.
+#Incorrecto: nunca deberíamos decir qué se puede hacer y qué no, siempre debemos apelar a la responsabilidad de los participantes ante sus acciones, puesto que una vez en el recorrido lo que sucederá dependerá de sus decisiones.
 }
 
 ::3:: Como federado, recuerda que puede que no todo el grupo tenga el mismo nivel y sin embargo sí que será frecuente que haya una persona que decida, para bien y para mal, por el resto del grupo. Si queremos implicar al resto del grupo en la toma de decisiones lo que haremos será: {
-Involucrar en la preparación de la actividad a todo el grupo, preguntando a la/las personas más vulnerables por su experiencia y/o ganas de realizar un tipo u otro de actividad, dándoles a ellos todos los datos objetivos que deben conocer para un correcto conocimiento de la actividad.
-Correcto; involucrar a todos en la información, en especial a los más débiles, permitirá que una vez sobre el terreno todos los participantes se sientan con derecho a opinar y transmitir cómo se sienten.
-Transmitir la información de la actividad sólo a los participantes con experiencia, pues serán ellos los que tome las decisiones finales.
-Incorrecto: los expertos del grupo decidirá por todos, y si no les hemos dado información al resto del grupo, éste no tendrá argumentos para replicarnos llegado el caso de que no estén de acuerdo.
+=Involucrar en la preparación de la actividad a todo el grupo, preguntando a la/las personas más vulnerables por su experiencia y/o ganas de realizar un tipo u otro de actividad, dándoles a ellos todos los datos objetivos que deben conocer para un correcto conocimiento de la actividad.
+#Correcto; involucrar a todos en la información, en especial a los más débiles, permitirá que una vez sobre el terreno todos los participantes se sientan con derecho a opinar y transmitir cómo se sienten.
+~Transmitir la información de la actividad sólo a los participantes con experiencia, pues serán ellos los que tome las decisiones finales.
+#Incorrecto: los expertos del grupo decidirá por todos, y si no les hemos dado información al resto del grupo, éste no tendrá argumentos para replicarnos llegado el caso de que no estén de acuerdo.
 }
 
 ::4:: Como federado deberás buscar información por tu cuenta antes de realizar la actividad, señala qué 2 fuentes son las más que más fiabilidad te generan (aun sabiendo que las otras existen y pueden ser consultadas): {
-Web de Senderos FAM, webs comarcales, web de Montaña Segura, web de Turismo de Aragón...
-Correcto: normalmente en estos medios hay información de excursiones y puede considerarse una fuente "oficial"
-Blogs y webs de otros excursionistas
-Incorrecto: son otra fuente de información, por supuesto, pero si no se "conoce" al autor de los blogs es muy difícil saber si se trata de un experto montañero para el que todo es "fácil" o de un inexperto senderista para el que todo es "difícil"
-Libros y guías
-Correcto: allí suele estar la información "estática" más segura, aunque en ocasiones el autor también puede ser del grupo de expertos (para los que todo es "fácil") o del grupo de inexpertos (para los que todo es "difícil")
-Preguntar a otros excursionistas por el camino
-Incorrecto: la planificación debe hacerse antes de salir, sobre el terreno ya es tarde porque no nos habremos podido equipar correctamente
+=Web de Senderos FAM, webs comarcales, web de Montaña Segura, web de Turismo de Aragón...
+#Correcto: normalmente en estos medios hay información de excursiones y puede considerarse una fuente "oficial"
+~Blogs y webs de otros excursionistas
+#Incorrecto: son otra fuente de información, por supuesto, pero si no se "conoce" al autor de los blogs es muy difícil saber si se trata de un experto montañero para el que todo es "fácil" o de un inexperto senderista para el que todo es "difícil"
+=Libros y guías
+#Correcto: allí suele estar la información "estática" más segura, aunque en ocasiones el autor también puede ser del grupo de expertos (para los que todo es "fácil") o del grupo de inexpertos (para los que todo es "difícil")
+~Preguntar a otros excursionistas por el camino
+#Incorrecto: la planificación debe hacerse antes de salir, sobre el terreno ya es tarde porque no nos habremos podido equipar correctamente
 }
 
 ::5:: En resumen, ¿qué información debemos tener clara y con qué fin? {
-Los horarios intermedios sirven para...
-
-...una toma de decisiones adecuada (darse la vuelta, alternativa más corta)
-Los horarios deben ser de ida y vuelta para...
-
-...conocer el tiempo total que va a tomar realizar la excursión
-Los tiempos de las guías suelen ser sin contar paradas...
-
-...y ello hay que tenerlo en cuenta, para añadir un tiempo extra al inicial
-De un mapa podremos sacar datos básicos sobre distancias y desniveles acumulados...
-
-..pero hay otro tipo de información que deberemos buscar en libros y guías
+=Los horarios intermedios sirven para... -> ...una toma de decisiones adecuada (darse la vuelta, alternativa más corta)
+=Los horarios deben ser de ida y vuelta para... -> ...conocer el tiempo total que va a tomar realizar la excursión
+=Los tiempos de las guías suelen ser sin contar paradas... -> ...y ello hay que tenerlo en cuenta, para añadir un tiempo extra al inicial
+=De un mapa podremos sacar datos básicos sobre distancias y desniveles acumulados... -> ..pero hay otro tipo de información que deberemos buscar en libros y guías
 }
 
 ::6:: Como ejemplo, vamos a calcular el horario de una excursión en la que hacemos 600 m de desnivel positivo y 4 km de ida por camino de herradura. Si calculamos el horario MIDE (horarios de IDA y VUELTA o excursión completa), tendríamos un tiempo de cuántas horas? {
-3 horas 30 minutos
-Correcto
-3 horas
-Incorrecto, son 3:30 horas. 600 m de subir + 600 m de bajar suponen 1:30h+1h=2:30h. 4 km de ida + 4 km de vuelta por camino de herradura (4km/h) suponen 1h+1h=2h. El tiempo mayor más la mitad del más pequeño son 2:30h+(2h/2)=3:30horas
-4 horas 30 minutos
-Incorrecto, son 3:30 horas. 600 m de subir + 600 m de bajar suponen 1:30h+1h=2:30h. 4 km de ida + 4 km de vuelta por camino de herradura (4km/h) suponen 1h+1h=2h. El tiempo mayor más la mitad del más pequeño son 2:30h+(2h/2)=3:30horas
-4 horas
-Incorrecto, son 3:30 horas. 600 m de subir + 600 m de bajar suponen 1:30h+1h=2:30h. 4 km de ida + 4 km de vuelta por camino de herradura (4km/h) suponen 1h+1h=2h. El tiempo mayor más la mitad del más pequeño son 2:30h+(2h/2)=3:30horas
+=3 horas 30 minutos
+#Correcto
+~3 horas
+#Incorrecto, son 3:30 horas. 600 m de subir + 600 m de bajar suponen 1:30h+1h=2:30h. 4 km de ida + 4 km de vuelta por camino de herradura (4km/h) suponen 1h+1h=2h. El tiempo mayor más la mitad del más pequeño son 2:30h+(2h/2)=3:30horas
+~4 horas 30 minutos
+#Incorrecto, son 3:30 horas. 600 m de subir + 600 m de bajar suponen 1:30h+1h=2:30h. 4 km de ida + 4 km de vuelta por camino de herradura (4km/h) suponen 1h+1h=2h. El tiempo mayor más la mitad del más pequeño son 2:30h+(2h/2)=3:30horas
+~4 horas
+#Incorrecto, son 3:30 horas. 600 m de subir + 600 m de bajar suponen 1:30h+1h=2:30h. 4 km de ida + 4 km de vuelta por camino de herradura (4km/h) suponen 1h+1h=2h. El tiempo mayor más la mitad del más pequeño son 2:30h+(2h/2)=3:30horas
 }
 
 ::7:: Como federados, debéis tener en mente una completa información meteorológica y no infravalorar los avisos porque... {
-...condiciones meteorológicas adversas han sido factores determinantes en muchos rescates por extravíos, agotamientos, hipotermias, etc...
-Correcto: la meteo es la causa indirecta o directa de muchos de los rescates.
-...el tiempo es el único factor variable de la montaña, todo lo demás sabemos que estará siempre tal como lo indican los libros.
-Incorrecto: hay otros factores que son variables en la montaña (caída de rocas, puentes movidos por caudales extremos en los barrancos, etc..), aunque sin duda la meteo es uno de los que más pueden condicionar nuestra actividad.
+=...condiciones meteorológicas adversas han sido factores determinantes en muchos rescates por extravíos, agotamientos, hipotermias, etc...
+#Correcto: la meteo es la causa indirecta o directa de muchos de los rescates.
+~...el tiempo es el único factor variable de la montaña, todo lo demás sabemos que estará siempre tal como lo indican los libros.
+#Incorrecto: hay otros factores que son variables en la montaña (caída de rocas, puentes movidos por caudales extremos en los barrancos, etc..), aunque sin duda la meteo es uno de los que más pueden condicionar nuestra actividad.
 }
 
 ::8:: En resumen, la AEMET ofrece {
-Un parte diario...
-...a partir de las seis de la tarde publicado en la Web
-Previsión de temperaturas máximas y mínimas...
-...para el día siguiente, junto con su sensación térmica en función del viento
-Previsión meteorológica para el día siguiente....
-....y con menor detalle, para tres días más
-Altitud de la isoterma 0º y -10ºC...
-...para tener una idea de a qué altura estará helando
+=Un parte diario... -> ...a partir de las seis de la tarde publicado en la Web
+=Previsión de temperaturas máximas y mínimas... -> ...para el día siguiente, junto con su sensación térmica en función del viento
+=Previsión meteorológica para el día siguiente.... -> ....y con menor detalle, para tres días más
+=Altitud de la isoterma 0º y -10ºC... -> ...para tener una idea de a qué altura estará helando
 }
 
 ::9:: Por lo tanto, un plan alternativo tiene como objetivo...(varias opciones son posibles) {
-Tener una opción más fácil y corta si el plan inicial se complica.
-Correcto: un plan alternativo es fundamental para reconducir actividades.
-Permitir que cada componente del grupo vaya hasta donde quiera, de manera libre.
-Incorrecto: no conviene dividir al grupo salvo que sea imprescindible: si hemos salido juntos lo ideal es que regresemos juntos.
-Aprovechar el día cuando éste no acompaña al plan inicial.
-Correcto: un plan alternativo es fundamental para reconducir actividades.
-Ofrecer nuevas ideas para futuras excursiones por la zona.
-Incorrecto: éste no es el objetivo de la elaboración de un plan alternativo, aunque también puede servir para eso.
+=Tener una opción más fácil y corta si el plan inicial se complica.
+#Correcto: un plan alternativo es fundamental para reconducir actividades.
+~Permitir que cada componente del grupo vaya hasta donde quiera, de manera libre.
+#Incorrecto: no conviene dividir al grupo salvo que sea imprescindible: si hemos salido juntos lo ideal es que regresemos juntos.
+=Aprovechar el día cuando éste no acompaña al plan inicial.
+#Correcto: un plan alternativo es fundamental para reconducir actividades.
+~Ofrecer nuevas ideas para futuras excursiones por la zona.
+#Incorrecto: éste no es el objetivo de la elaboración de un plan alternativo, aunque también puede servir para eso.
 }
 
 ::10:: Con esta información...   {
-Podremos ser buscados por los grupos de rescate si se da el caso de queno regresamos a la hora prevista y en un tiempo razonable.
-Correcto
-Nuestros familiares podrán saber donde estamos y organizar otro día esa misma actividad ellos mismos.
-Incorrecto: el objetivo principal de dejar un aviso es que se puedan activar a tiempo los grupos de rescate si no regresamos en un tiempo razonable.
+=Podremos ser buscados por los grupos de rescate si se da el caso de queno regresamos a la hora prevista y en un tiempo razonable.
+#Correcto
+~Nuestros familiares podrán saber donde estamos y organizar otro día esa misma actividad ellos mismos.
+#Incorrecto: el objetivo principal de dejar un aviso es que se puedan activar a tiempo los grupos de rescate si no regresamos en un tiempo razonable.
 }
 
 ::11:: Debemos recordar que un guía nos permitirá... {
-...realizar actividades para las que nuestro grupo no está 100% preparado, de una manera controlada y siguiendo todas las pautas de seguridad, y a la vez aprender sobre el medio y el deporte
-Correcto
-...acometer actividades peligrosas sin riesgo alguno, ya que es él quien nos lleva y asume todas las dificultades
-Incorrecto: el riesgo cero no existe, pero el guía realiza la actividad de manera controlada y siguiendo las pautas de seguridad apropiadas
+=...realizar actividades para las que nuestro grupo no está 100% preparado, de una manera controlada y siguiendo todas las pautas de seguridad, y a la vez aprender sobre el medio y el deporte
+#Correcto
+~...acometer actividades peligrosas sin riesgo alguno, ya que es él quien nos lleva y asume todas las dificultades
+#Incorrecto: el riesgo cero no existe, pero el guía realiza la actividad de manera controlada y siguiendo las pautas de seguridad apropiadas
 }
 
 ::12:: Como federados, deberemos tener en cuenta que...(varias opciones son posibles) {
-Por muy corta que sea la excursión siempre hay que llevar un mínimo de material para la seguridad, por lo que se hace imprescindible llevar mochila
-Correcto
-Hay material que no siempre es necesario, de lo expuesto más arriba llevaremos sólo aquéllas cosas que sean adecuadas para la ruta, pues algunas de ellas son claramente prescindibles
-Incorrecto: ese material es por seguridad, si no se usa querrá decir que todo ha ido bien, pero el no llevarlo supone que ante un imprevisto se tenga menor capacidad de reacción
-El calzado, cuanto más técnico mejor, nunca sobra...
-Incorrecto: el calzado debe estar acorde a la actividad que se realiza, puede ser tan incómodo un calzado de ciudad por un sendero de cota baja como una pesada bota de alta montaña
-Aunque ya se conozca la zona o el recorrido, el mapa nunca deja de ser necesario y no debe quedarse en casa
-Correcto: condiciones de niebla, lluvia o que se eche la noche encima pueden hacerte perder la orientación, siempre conviene llevar mapa y brújula, aún cuando se conoce bien el itinerario
+=Por muy corta que sea la excursión siempre hay que llevar un mínimo de material para la seguridad, por lo que se hace imprescindible llevar mochila
+#Correcto
+~Hay material que no siempre es necesario, de lo expuesto más arriba llevaremos sólo aquéllas cosas que sean adecuadas para la ruta, pues algunas de ellas son claramente prescindibles
+#Incorrecto: ese material es por seguridad, si no se usa querrá decir que todo ha ido bien, pero el no llevarlo supone que ante un imprevisto se tenga menor capacidad de reacción
+~El calzado, cuanto más técnico mejor, nunca sobra...
+#Incorrecto: el calzado debe estar acorde a la actividad que se realiza, puede ser tan incómodo un calzado de ciudad por un sendero de cota baja como una pesada bota de alta montaña
+=Aunque ya se conozca la zona o el recorrido, el mapa nunca deja de ser necesario y no debe quedarse en casa
+#Correcto: condiciones de niebla, lluvia o que se eche la noche encima pueden hacerte perder la orientación, siempre conviene llevar mapa y brújula, aún cuando se conoce bien el itinerario
 }
 
 ::13:: Como federados, no olvides... {
-Que siempre debes llevarse ropa de abrigo y cortavientos, incluso cuando en pleno verano la previsión sea de buen tiempo y temperaturas altas, pues la meteorología puede cambiar de forma brusca y radical en montaña de una hora para otra
-Correcto
-Que, por el bien de optimizar el peso de la mochila y no cargar con cosas innecesarias, sólo llevaremos ropa de abrigo o cortavientos cuando la previsión meteorológica nos haga pensar que puede ser necesario su uso, algo que en verano no es muy frecuente
-Incorrecto: el tiempo en montaña es muy variable y pueden suceder descensos térmicos importantes en muy poco tiempo y sin previo aviso
+=Que siempre debes llevarse ropa de abrigo y cortavientos, incluso cuando en pleno verano la previsión sea de buen tiempo y temperaturas altas, pues la meteorología puede cambiar de forma brusca y radical en montaña de una hora para otra
+#Correcto
+~Que, por el bien de optimizar el peso de la mochila y no cargar con cosas innecesarias, sólo llevaremos ropa de abrigo o cortavientos cuando la previsión meteorológica nos haga pensar que puede ser necesario su uso, algo que en verano no es muy frecuente
+#Incorrecto: el tiempo en montaña es muy variable y pueden suceder descensos térmicos importantes en muy poco tiempo y sin previo aviso
 }
 
 ::14:: Cada tipo de calzado es apto para un tipo de excursión o medio, relaciónalos: {
-Las botas de plástico, impermeables y cramponables son adecuadas para...
-
-...alta montaña, rutas fuera de senda por terrenos pedregosos, terrenos nevados
-Botas de caña alta, suela vibram o similar (buen agarre), impermeables o no, son adecuadas para....
-
-...la mayoría de las excursiones senderistas de media montaña
-Zapatillas de trekking, con suela vibram o similar (buen agarre) pero tobillo al descubierto, son adecuadas para...
-
-...excursiones cortas de baja dificultad, aunque dejan el tobillo vulnerable
-Zapatillas de deporte, son adecuadas para...
-
-...ninguna actividad en montaña: la suela no es adecuada y el tobillo va desprotegido
+Las botas de plástico, impermeables y cramponables son adecuadas para... -> ...alta montaña, rutas fuera de senda por terrenos pedregosos, terrenos nevados
+Botas de caña alta, suela vibram o similar (buen agarre), impermeables o no, son adecuadas para.... -> ...la mayoría de las excursiones senderistas de media montaña
+Zapatillas de trekking, con suela vibram o similar (buen agarre) pero tobillo al descubierto, son adecuadas para... -> ...excursiones cortas de baja dificultad, aunque dejan el tobillo vulnerable
+Zapatillas de deporte, son adecuadas para... -> ...ninguna actividad en montaña: la suela no es adecuada y el tobillo va desprotegido
 }
 
 ::15:: Como federados, debemos recordar que los bastones... {
-...no forman parte del equipo imprescindible que debe llevar todo excursionista, pero si se usan correctamente pueden evitar lesiones, sobrecargas y accidentes por tropiezos o caídas
-Correcto
-...deberían llevarse siempre pues sin ellos no es prudente salir a caminar. Evitan accidentes, sobrecargas y tropiezos
-Incorrecto: no son imprescindibles y mucha gente camina sin ellos sin que ello suponga un mayor riesgo
+=...no forman parte del equipo imprescindible que debe llevar todo excursionista, pero si se usan correctamente pueden evitar lesiones, sobrecargas y accidentes por tropiezos o caídas
+#Correcto
+~...deberían llevarse siempre pues sin ellos no es prudente salir a caminar. Evitan accidentes, sobrecargas y tropiezos
+#Incorrecto: no son imprescindibles y mucha gente camina sin ellos sin que ello suponga un mayor riesgo
 }
 
 ::16:: No dejéis de tenerlo en cuenta y recordad que... {
-Hay que llevar siempre agua en la mochila...
-
-...pues nunca se sabe si las fuentes manarán 
-En senderismo, la comida debe ser...
-
-...agradable, fácil de transportar y energética
-El agua de deshielo no suele tener....
-
-...sales suficientes, por lo que al cuerpo le cuesta retenerla
-El agua de los ríos de montaña es de calidad....
-
-...dudosa, pues muchas veces hay ganado más arriba que la contamina
+=Hay que llevar siempre agua en la mochila... -> ...pues nunca se sabe si las fuentes manarán 
+=En senderismo, la comida debe ser... -> ...agradable, fácil de transportar y energética
+=El agua de deshielo no suele tener.... -> ...sales suficientes, por lo que al cuerpo le cuesta retenerla
+=El agua de los ríos de montaña es de calidad.... -> ...dudosa, pues muchas veces hay ganado más arriba que la contamina
 }
 
 ::17:: El sol en la montaña es peligroso porque... {
-Al ser menor la densidad del aire las radiaciones llegan de forma más directa a la piel. Además las habituales brisas de montaña dan una sensación de fresco engañosa
-Correcto
-Al estar más cerca del sol el calor y la radiación que se recibe es mayor
-Incorrecto: la distancia al sol no es el factor determinante, lo es la densidad del aire
+=Al ser menor la densidad del aire las radiaciones llegan de forma más directa a la piel. Además las habituales brisas de montaña dan una sensación de fresco engañosa
+#Correcto
+~Al estar más cerca del sol el calor y la radiación que se recibe es mayor
+#Incorrecto: la distancia al sol no es el factor determinante, lo es la densidad del aire
 }
 
 ::18:: De todo lo que recomendamos llevar en un botiquín, ¿qué elemento no deberíamos dejar de llevar nunca pues puede salvar vidas si acaso sucede un accidente que precise rescate? {
-La manta térmica, pues permite abrigar y aislar al herido y mantenerle la temperatura corporal
-Correcto
-Los analgésicos fuertes, pues permiten calmar el dolor mientras vienen los grupos de rescate
-Incorrecto: es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
-Gasas, vendas y solución antiséptica, pues permiten limpiar heridas y evitar que éstas se infecten
-Incorrecto: es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
-Guantes y bisturí, pues permiten hacer una intervención de campaña
-Incorrecto: es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
+=La manta térmica, pues permite abrigar y aislar al herido y mantenerle la temperatura corporal
+#Correcto
+~Los analgésicos fuertes, pues permiten calmar el dolor mientras vienen los grupos de rescate
+#Incorrecto: es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
+~Gasas, vendas y solución antiséptica, pues permiten limpiar heridas y evitar que éstas se infecten
+#Incorrecto: es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
+~Guantes y bisturí, pues permiten hacer una intervención de campaña
+#Incorrecto: es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
 }
 
 ::19:: De un mapa se puede extraer la siguiente información: {
-Distancia entre dos puntos
-
-A partir de la escala y la distancia sobre el papel
-Desniveles
-
-A partir de las curvas de nivel y su equidistancia
-Señalización del sendero
-
-A partir de las etiquetas y colores que tienen los caminos
-Fuentes, refugios y puentes
-
-A partir de los iconos o símbolos que se dibujan en el mapa
+=Distancia entre dos puntos -> A partir de la escala y la distancia sobre el papel
+=Desniveles -> A partir de las curvas de nivel y su equidistancia
+=Señalización del sendero -> A partir de las etiquetas y colores que tienen los caminos
+=Fuentes, refugios y puentes -> A partir de los iconos o símbolos que se dibujan en el mapa
 }
 
 ::20:: Como federado, conviene que tengas claro cómo y cuando funciona el servicio de emergencias del 112: {
-Siempre que haya cobertura de alguna compañía, aunque no sea la nuestra
-Correcto
-Siempre que haya cobertura de nuestra compañía
-Incorrecto: es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país
-Siempre, independientemente de la cobertura, pues es satelital
-Incorrecto: es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país, pero tiene que haber cobertura de alguna compañía, sino no funciona
-Nunca en zonas de montaña
-Incorrecto: es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país
+=Siempre que haya cobertura de alguna compañía, aunque no sea la nuestra
+#Correcto
+~Siempre que haya cobertura de nuestra compañía
+#Incorrecto: es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país
+~Siempre, independientemente de la cobertura, pues es satelital
+#Incorrecto: es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país, pero tiene que haber cobertura de alguna compañía, sino no funciona
+~Nunca en zonas de montaña
+#Incorrecto: es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país
 }
 
 ::21:: ¿Qué cosas crees que no debería faltar nunca por muy corta y fácil que sea la excursión, en una mochila? (varias opciones son posibles) {
-Botiquín
-Correcto: el botiquín siempre puede sernos de utilidad para pequeñas heridas y afecciones o incomodidades
-Agua y comida
-Correcto: agua y comida necesitaremos siempre para evitar deshidrataciones y agotamientos
-Ropa de abrigo e impermeable
-Correcto: Ropa de abrigo e impermeable nunca pueden faltar en la mochila por si acaso se da un cambio de tiempo inesperado
-Mapa y teléfono
-Correcto: Mapa para orientarse y teléfono (apagado, con la batería cargada) para dar aviso siempre deben contar como equipo en la mochila
+=Botiquín
+#Correcto: el botiquín siempre puede sernos de utilidad para pequeñas heridas y afecciones o incomodidades
+=Agua y comida
+#Correcto: agua y comida necesitaremos siempre para evitar deshidrataciones y agotamientos
+=Ropa de abrigo e impermeable
+#Correcto: Ropa de abrigo e impermeable nunca pueden faltar en la mochila por si acaso se da un cambio de tiempo inesperado
+=Mapa y teléfono
+#Correcto: Mapa para orientarse y teléfono (apagado, con la batería cargada) para dar aviso siempre deben contar como equipo en la mochila
 }
 
 ::22:: Recuerda... {
-Empezar a buena hora garantizará que ante un imprevisto...
-
-...se disponga de tiempo necesario para resolverlo
-Consultar el mapa a menudo permite...
-
-...saber siempre dónde estamos y valorar lo que queda
-Parar a comer y beber evitará...
-
-...agotamientos y deshidrataciones innecesarias
-La marcha de un grupo la determina...
-
-...el elemento más vulnerable del mismo
+=Empezar a buena hora garantizará que ante un imprevisto... -> ...se disponga de tiempo necesario para resolverlo
+=Consultar el mapa a menudo permite... -> ...saber siempre dónde estamos y valorar lo que queda
+=Parar a comer y beber evitará... -> ...agotamientos y deshidrataciones innecesarias
+=La marcha de un grupo la determina... -> ...el elemento más vulnerable del mismo
 }
 
 ::23:: Si ello ya no es posible: porque se nos ha echado el tiempo encima y no queremos renunciar a nuestra actividad, debemos actuar de la siguiente manera: {
-Razonar y asumir el por qué no es conveniente esa actividad para ese  momento del día, recordando datos objetivos (desniveles, horarios, previsión meteorológica) y planteándonos otro plan alternativo de menos envergadura que sí podamos llevar a cabo
-Correcto: razonar a partir de datos es una manera muy educativa de tomar decisiones
-Seguir con el plan inicial, puesto que estamos federados y a los federados no nos suelen pasar accidentes en la montaña y si nos suceden tenemos un seguro que nos cubre.
-Incorrecto: es cierto que nuestro seguro nos cubre los problemas que podamos tener derivados de nuestra actividad, pero no debemos olvidar que nuestra seguridad es nuestra responsabilidad y que además somos para mucha gente con menos experiencia un referente del que aprender, así que debemos ser exquisitos en nuestra toma de decisiones y seguir siempre los parámetros más seguros.
+=Razonar y asumir el por qué no es conveniente esa actividad para ese  momento del día, recordando datos objetivos (desniveles, horarios, previsión meteorológica) y planteándonos otro plan alternativo de menos envergadura que sí podamos llevar a cabo
+#Correcto: razonar a partir de datos es una manera muy educativa de tomar decisiones
+~Seguir con el plan inicial, puesto que estamos federados y a los federados no nos suelen pasar accidentes en la montaña y si nos suceden tenemos un seguro que nos cubre.
+#Incorrecto: es cierto que nuestro seguro nos cubre los problemas que podamos tener derivados de nuestra actividad, pero no debemos olvidar que nuestra seguridad es nuestra responsabilidad y que además somos para mucha gente con menos experiencia un referente del que aprender, así que debemos ser exquisitos en nuestra toma de decisiones y seguir siempre los parámetros más seguros.
 }
 
 ::24:: En general no debemos olvidar nunca que... {
-La velocidad del grupo es...
-
-...la velocidad que lleva la persona más lenta
-Las paradas a comer y beber son importantes porque...
-
-...permiten evitar agotamientos y deshidrataciones
-Si el grupo no progresa a la velocidad esperada...
-
-...lo mejor es darse la vuelta y volver otro día
-Disfrutar en la montaña es muy importante si queremos...
-
-...que otro día nos queden ganas de volver
+=La velocidad del grupo es... -> ...la velocidad que lleva la persona más lenta
+=Las paradas a comer y beber son importantes porque... -> ...permiten evitar agotamientos y deshidrataciones
+=Si el grupo no progresa a la velocidad esperada... -> ...lo mejor es darse la vuelta y volver otro día
+=Disfrutar en la montaña es muy importante si queremos... -> ...que otro día nos queden ganas de volver
 }
 
 ::25:: Como federados, debéis intentar que...  {
-Si un grupo sale junto....
-
-...debe regresar junto
-Si alguien del grupo no se encuentra bien o no quiere seguir...
-
-...nunca se le debe dejar solo
-Si una parte del grupo decide no seguir...
-
-...es mejor darse la vuelta todos y volver otro día
-Si a pesar de todo el grupo se divide...
-
-...hay que asegurar que las dos partes son autónomas y capaces
+=Si un grupo sale junto.... -> ...debe regresar junto
+=Si alguien del grupo no se encuentra bien o no quiere seguir... -> ...nunca se le debe dejar solo
+=Si una parte del grupo decide no seguir... -> ...es mejor darse la vuelta todos y volver otro día
+=Si a pesar de todo el grupo se divide... -> ...hay que asegurar que las dos partes son autónomas y capaces
 }
 
 ::26:: Como federados: {
-Tendremos bien presentes las alternativas y las escogeremos siempre que lo consideremos oportuno
-Correcto
-Haremos siempre el plan más corto y fácil, pues es lo más prudente
-Incorrecto: puede que al final sea así, pero las alternativas las tenemos para que podamos escogerlas en caso de duda o dificultad, no para renunciar siempre al plan más largo
-Enviaremos a la mitad del grupo al plan más corto y fácil, pues así todos hacen lo que quieren
-Incorrecto: partir al grupo casi siempre supone aumentar la vulnerabilidad de una de las dos mitades. Si hemos salido todos juntos debemos regresar todos juntos
-Realizaremos la actividad que nos hemos propuesto, pues a ello hemos venido
-Incorrecto: empecinarse a terminar una actividad puede poner en riesgo al grupo, hay que saber cuándo darse la vuelta
+=Tendremos bien presentes las alternativas y las escogeremos siempre que lo consideremos oportuno
+#Correcto
+~Haremos siempre el plan más corto y fácil, pues es lo más prudente
+#Incorrecto: puede que al final sea así, pero las alternativas las tenemos para que podamos escogerlas en caso de duda o dificultad, no para renunciar siempre al plan más largo
+~Enviaremos a la mitad del grupo al plan más corto y fácil, pues así todos hacen lo que quieren
+#Incorrecto: partir al grupo casi siempre supone aumentar la vulnerabilidad de una de las dos mitades. Si hemos salido todos juntos debemos regresar todos juntos
+~Realizaremos la actividad que nos hemos propuesto, pues a ello hemos venido
+#Incorrecto: empecinarse a terminar una actividad puede poner en riesgo al grupo, hay que saber cuándo darse la vuelta
 }
 
 ::27:: Como federados, debéis intentar... {
-Ser siempre conscientes de las condiciones que impone el medio en cuanto a la importancia de beber y comer y los efectos del sol e intentando que el grupo actúe de manera prudente: protegiéndos, escogiendo las horas de menos calor y asegurándonos de que todos vamos bien alimentados e hidratados.
-Correcto
-Ser siempre conscientes de las condiciones que impone el medio en cuanto a la importancia de beber y comer y los efectos del sol, pero dejando que cada participante decida cómo hacer las cosas: a qué hora quieres salir y si quiere o no llevar agua y comida
-Incorrecto: el grupo debe estar cohesionado y siempre es bueno que se anime a todos sus participantes a hacer las cosas "bien". Por supuesto no podemos obligar a nadie a comer y beber si no quieren, pero debemos ir todos juntos y recomendaremos las paradas necesarias e ingesta de líquidos y alimento para evitar deshidrataciones y agotamientos.
+=Ser siempre conscientes de las condiciones que impone el medio en cuanto a la importancia de beber y comer y los efectos del sol e intentando que el grupo actúe de manera prudente: protegiéndos, escogiendo las horas de menos calor y asegurándonos de que todos vamos bien alimentados e hidratados.
+#Correcto
+~Ser siempre conscientes de las condiciones que impone el medio en cuanto a la importancia de beber y comer y los efectos del sol, pero dejando que cada participante decida cómo hacer las cosas: a qué hora quieres salir y si quiere o no llevar agua y comida
+#Incorrecto: el grupo debe estar cohesionado y siempre es bueno que se anime a todos sus participantes a hacer las cosas "bien". Por supuesto no podemos obligar a nadie a comer y beber si no quieren, pero debemos ir todos juntos y recomendaremos las paradas necesarias e ingesta de líquidos y alimento para evitar deshidrataciones y agotamientos.
 }
 
 ::28:: Como federados debemos actuar de la siguiente manera: {
-Si alguien del grupo no sabe "leer mapas" le explicaremos la excursión sobre un mapa, de esta manera se va familiarizando con ellos y su simbología
-Correcto: es muy importante "educar" en esta materia, así que aunque no entienda los mapas debemos intentar que se vaya familiarizando con ellos
-Si alguien del grupo no sabe "leer mapas" le explicaremos la excursión sobre otro soporte (texto, esquema...) pues es perder el tiempo explicarle algo sobre un soporte que no comprende
-Incorrecto: si no sabe leer mapas y nunca lo ponemos delante de uno nunca aprenderá. Debemos "educarle" en la lectura de mapas
+=Si alguien del grupo no sabe "leer mapas" le explicaremos la excursión sobre un mapa, de esta manera se va familiarizando con ellos y su simbología
+#Correcto: es muy importante "educar" en esta materia, así que aunque no entienda los mapas debemos intentar que se vaya familiarizando con ellos
+~Si alguien del grupo no sabe "leer mapas" le explicaremos la excursión sobre otro soporte (texto, esquema...) pues es perder el tiempo explicarle algo sobre un soporte que no comprende
+#Incorrecto: si no sabe leer mapas y nunca lo ponemos delante de uno nunca aprenderá. Debemos "educarle" en la lectura de mapas
 }
 
 ::29:: Como federados, conviene que recordéis que... {
-La meteo en montaña es muy cambiante...
-
-...y puede evolucionar a peor de manera rápida y drástica
-Condiciones de frío o lluvia pueden causar...
-
-...agotamientos e hipotermias, y posibles lesiones o accidentes
-Las condiciones de calor, lluvia y frío se ceban más con ...
-
-...los más pequeños, y por ello hay que protegerles bien
-Las tormentas con aparato eléctrico son muy peligrosas y hay que evitarlas siempre...
-
-...por la exposición a la caída de rayos
+=La meteo en montaña es muy cambiante... -> ...y puede evolucionar a peor de manera rápida y drástica
+=Condiciones de frío o lluvia pueden causar... -> ...agotamientos e hipotermias, y posibles lesiones o accidentes
+=Las condiciones de calor, lluvia y frío se ceban más con ... -> ...los más pequeños, y por ello hay que protegerles bien
+=Las tormentas con aparato eléctrico son muy peligrosas y hay que evitarlas siempre... -> ...por la exposición a la caída de rayos
 }
