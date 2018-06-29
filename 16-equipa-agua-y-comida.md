@@ -1,6 +1,8 @@
 # Equipa: Agua y comida (16 de 30)
 
-![Equipa: agua y comida](./gps_files/AGUA.jpg)Cuando se realiza cualquier actividad física, como el senderismo, el cuerpo demanda agua y alimento.
+![Equipa: agua y comida](img/AGUA.jpg)
+
+Cuando se realiza cualquier actividad física, como el senderismo, el cuerpo demanda agua y alimento.
 
 El **agua** es un elemento vital, que el cuerpo consume para mantener su actividad, evacuar detritos y refrigerarse. Su consumo insuficiente provoca **deshidratación**.
 
@@ -10,4 +12,3 @@ Por norma, **hay que** **beber antes de tener sed y c****omer en cuanto el hambr
 
 Como **federados**, debéis tener en cuenta que muchos de los rescates tienen como causa principal el agotamiento y la deshidratación, algo que en parte se puede evitar si se bebe y come adecuadamente.
 
-#### No dejéis de tenerlo en cuenta y recordad que...

@@ -1,7 +1,8 @@
-# **Planificar la actividad (1 de 30)  
-**
+# Planificar la actividad (1 de 30)  
 
-**![Planifica](./gps_files/Planifica.jpg)****Planificar una actividad** es siempre una acción PREVIA a su realización, y marcará en gran medida el éxito de la misma.
+![Planifica](img/Planifica.jpg)
+
+**Planificar una actividad** es siempre una acción PREVIA a su realización, y marcará en gran medida el éxito de la misma.
 
 Para planificar correctamente una actividad será necesario:
 
@@ -15,4 +16,3 @@ Para planificar correctamente una actividad será necesario:
 
 **5\.** **Contar **adónde vamos
 
-#### Como **federados** deberemos intentar siempre (varias opciones son posibles):

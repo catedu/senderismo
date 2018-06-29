@@ -1,6 +1,8 @@
 # Planifica: Consulta el tiempo (7 de 30)
 
-![Consulta Meteo](./gps_files/CONSULTA_TIEMPO.jpg)Conocer la **previsión meteorológica** es fundamental para asegurar una buena excursión.
+![Consulta Meteo](img/CONSULTA_TIEMPO.jpg)
+
+Conocer la **previsión meteorológica** es fundamental para asegurar una buena excursión.
 
 El **tiempo puede ser muy cambiante y variar mucho en el mismo día,** sobre todo en la montaña. Además, a partir de cierta altura y aunque sea verano, debemos prever siempre la posibilidad de lluvia y de descensos bruscos de la temperatura.
 
@@ -11,4 +13,3 @@ Como **federado**, no dudes en tener disponible esta Web en tu ordenador o su AP
 El **tiempo previsto será importante para elegir el recorrido**, pero también para **elegir el equipo** que deberás llevar en la mochila.  
   
 
-#### Como **federados**, debéis tener en mente una completa información meteorológica y no infravalorar los avisos porque...

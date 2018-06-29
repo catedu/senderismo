@@ -1,6 +1,8 @@
 # Equipa: Todo a la mochila (21 de 30)
 
-![Equipa: esta todo](./gps_files/ESTA_TODO.jpg)Esta puede ser una **lista general** de las cosas que sería bueno y prudente llevar SIEMPRE en la mochila. Muchas de ellas no se utilizarán nunca o casi nunca (mejor así!), pero deben llevarse por si acaso y tampoco pesan mucho.  
+![Equipa: esta todo](img/ESTA_TODO.jpg)
+
+Esta puede ser una **lista general** de las cosas que sería bueno y prudente llevar SIEMPRE en la mochila. Muchas de ellas no se utilizarán nunca o casi nunca (mejor así!), pero deben llevarse por si acaso y tampoco pesan mucho.  
 
 1\. Ropa de abrigo y cortavientos  
 2\. Impermeable  
@@ -20,4 +22,3 @@
 16\. Chaleco reflectante  
 17\. Bastones (opcional)  
 
-#### ¿Qué cosas crees que no debería faltar nunca por muy corta y fácil que sea la excursión, en una mochila? (varias opciones son posibles)

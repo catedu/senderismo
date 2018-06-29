@@ -1,6 +1,8 @@
 # Planifica: Prevé Alternativas (9 de 30)
 
-![Preve alternativas](./gps_files/PREVE_ALTERNATIVAS.jpg)Empeñarse en cumplir un objetivo suele dar malos resultados. Debemos **mentalizarnos de que siempre podemos volver otro día**, que lo más importante es que la salida sea segura y la disfrute todo el grupo.
+![Preve alternativas](img/PREVE_ALTERNATIVAS.jpg)
+
+Empeñarse en cumplir un objetivo suele dar malos resultados. Debemos **mentalizarnos de que siempre podemos volver otro día**, que lo más importante es que la salida sea segura y la disfrute todo el grupo.
 
 Como **federado será bueno que tengamos en mente dos tipos de alternativas**:  
 
@@ -9,4 +11,3 @@ Como **federado será bueno que tengamos en mente dos tipos de alternativas**:
 
 **Empecinarse**en cumplir un plan suele ser la causa de muchos malos ratos, de problemasevitables que a veces tienen**consecuencias fatales**. Si se dispone de un plan alternativo costará mucho menos renunciar al objetivo inicial.
 
-#### Por lo tanto, un plan alternativo tiene como objetivo...(varias opciones son posibles)

@@ -1,6 +1,8 @@
 # Actúa: Usar los mapas y comprobar horarios (28 de 30)
 
-![Actúa: Usar los mapas](./gps_files/USA_MAPA.jpg)El mapa y la brújula son insustituibles para orientarse en el medio, como **federados** debemos llevarlos y usarlos en todoso nuestros recorridos. Además, **una vez sobre el terreno interpretar correctamente el mapa le será imprescindible para comprobar que estamos cumpliendo los horarios previstos**.
+![Actúa: Usar los mapas](img/USA_MAPA.jpg)
+
+El mapa y la brújula son insustituibles para orientarse en el medio, como **federados** debemos llevarlos y usarlos en todoso nuestros recorridos. Además, **una vez sobre el terreno interpretar correctamente el mapa le será imprescindible para comprobar que estamos cumpliendo los horarios previstos**.
 
 El **GPS** puede ser un **buen complemento** de los anteriores, pero debemos intentar que nunca dependamos sólo de él pues puede fallar la calidad de la señal, apagarse o romperse.
 
@@ -12,4 +14,3 @@ También debemos recordarl que:
 2\. Podemos aprovechar las **paradas** para estudiar el mapa, jugar a reconocer elementos en el paisaje y comprobar con la brújula su orientación.  
 3\. Cada salida es una buena ocasión para **planificar otras salidas** contrastando la información del mapa (enlaces de senderos y pistas, un despoblado cercano...) con la que ofrece el terreno.
 
-#### Como **federados** debemos actuar de la siguiente manera:

@@ -1,6 +1,8 @@
 # Equipar: Para orientarse (19 de 30)
 
-![Equiparse: orinetación](./gps_files/PARA_ORIENTAR.jpg)Para garantizar la autonomía en un recorrido orientándose correctamente, resulta necesario llevar:
+![Equiparse: orinetación](img/PARA_ORIENTAR.jpg)
+
+Para garantizar la autonomía en un recorrido orientándose correctamente, resulta necesario llevar:
 
 **1\. Cartografía** de la zona, mejor cuanto más actualizada y **detallada** (escala 1:40.000, 1:25.000...)  
 **2\. Brújula**, permite orientarse en cualquier lugar y situación  
@@ -14,4 +16,3 @@ Nunca debe olvidarse que como todo aparato electrónico, **el GPS es vulnerable 
 
 **Nuestra responsabilidad llevar siempre mapa y sacarlo durante el recorrido tantas veces como sea necesario**, de esa manera ayudamos a que el resto del grupo o la gente menos experta se vayan familiarizando con él y aprendan a leerlo.  
 
-#### De un mapa se puede extraer la siguiente información:

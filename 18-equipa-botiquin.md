@@ -1,6 +1,8 @@
 # Equipa: El botiquín (18 de 30)
 
-![Equipa: Botiquin](./gps_files/BOTIQUIN.jpg)Un botiquín de campaña pesa y ocupa poco pero puede ser de gran utilidad. Permite afrontar contratiempos bastante habituales como:
+![Equipa: Botiquin](img/BOTIQUIN.jpg)
+
+Un botiquín de campaña pesa y ocupa poco pero puede ser de gran utilidad. Permite afrontar contratiempos bastante habituales como:
 
 \- Erosiones y cortes  
 \- Rozaduras del calzado o la mochila  
@@ -55,4 +57,3 @@ Para prevenir otros problemas:
 
 Como **federados**, no olvides incluir siempre un botinquín en tu mochila, por lo menos uno por grupo.  
 
-#### De todo lo que recomendamos llevar en un botiquín, ¿qué elemento no deberíamos dejar de llevar nunca pues puede salvar vidas si acaso sucede un accidente que precise rescate?

@@ -1,6 +1,8 @@
 # Planifica: Hacer los cálculos (5 de 30)
 
-![Planifica - Hacer cálculos](./gps_files/HAZ_CALCULOS.jpg)Para **calcular los datos básicos de una excursión** como **federado** necesitarás:
+![Planifica - Hacer cálculos](img/HAZ_CALCULOS.jpg)
+
+Para **calcular los datos básicos de una excursión** como **federado** necesitarás:
 
 **A. Mapade la zona**, cuanto más detallado y actualizado mejor (escala 1:25.000, 1:40.000).
 
@@ -21,4 +23,3 @@ Además, te conviene recordar que la mayoría de los tiempos que dan las guías 
 
 Como **federado** no olvides nunca calcular **h****orarios intermedios de las rutas que vas a hacer**: ello te facilitará la toma de decisiones sobre el terreno, como darte la vuelta o elegir un itinerario alternativo más corto, si lo consideras oportuno.
 
-#### En resumen, ¿qué información debemos tener clara y con qué fin?

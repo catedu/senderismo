@@ -1,6 +1,8 @@
 # Planifica: ¿Contratar a un guía? (11 de 30)
 
-![Guias](./gps_files/guias+de+monta%C3%B1a.jpg)Si valoramos que **nuestro grupo tiene dudas sobre su capacidad** para afrontar la actividad que pretendemos hacer (por sus dificultades técnicas o la existencia de pasos peligrosos) **y no somos receptivos a cambiar de plan puede ser una buena idea  contratar un guía.**
+![Guias](img/guias+de+monta%C3%B1a.jpg)
+
+Si valoramos que **nuestro grupo tiene dudas sobre su capacidad** para afrontar la actividad que pretendemos hacer (por sus dificultades técnicas o la existencia de pasos peligrosos) **y no somos receptivos a cambiar de plan puede ser una buena idea  contratar un guía.**
 
 Encontraremos más información sobre estos profesionales y sus servicios en estas páginas Web:
 
@@ -10,4 +12,3 @@ Encontraremos más información sobre estos profesionales y sus servicios en est
 
 Un guía es un  **profesional en la gestión del riesgo,** que enseñará a disfrutar del deporte y a conocer el medio de una manera planificada y siguiendo todas las pautas de seguridad.
 
-#### Debemos recordar que un guía nos permitirá...

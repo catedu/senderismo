@@ -1,6 +1,8 @@
 # Actúa: Tener en cuenta las alternativas (26 de 30)
 
-![Actúa: Alternativas](./gps_files/TEN_EN_CUENTA.jpg)Nunca debemos olvdiar que lo importante es disfrutar del día, y si no se puede hacer una actividad hoy ya se hará mañana.
+![Actúa: Alternativas](img/TEN_EN_CUENTA.jpg)
+
+Nunca debemos olvdiar que lo importante es disfrutar del día, y si no se puede hacer una actividad hoy ya se hará mañana.
 
 Como **federados**, si el recorrido lo requiere (por ser una excursión de envergadura, porque nos parece que el grupo va muy justo en experiencia y capacidades como para afrontarla con seguridad, porque la meteo es muy inestable, etc...) habremos preparado un plan alternativo. Debemos recordar "usarlo" si las circunstancias sobre el terreno lo aconsejan.
 
@@ -16,5 +18,3 @@ Porque la realidad es que conforme avance el día:
 **1.** Aumenta el **agotamiento** y, normalmente, disminuyen las **reservas de comida y agua**  
 **2.** Se reducen las **horas de luz** y la **temperatura ambiente**  
 **3.** Muchas pequeñas **dolencias** tienden a agravarse
-
-#### Como **federados**:

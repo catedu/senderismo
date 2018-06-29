@@ -1,6 +1,8 @@
 # Planifica: Predicción de Montaña de la AEMET (8 de 30)
 
-![AEMET](./gps_files/recursos-el-tiempo-atmosferico-L-wEKXNg.jpeg)Sabemos que a veces resulta mucho más cómodo, rápido y fácil consultar y comprender una previsión meteorológica basada en sencillos dibujos. Sin embargo es muy recomendable familiarizarnos con la **Predicción de montaña de la AEMET**, pues aporta mucha más información de gran utilidad y ello nos permitirá tomar decisiones más acertadas en la montaña.
+![AEMET](img/recursos-el-tiempo-atmosferico-L-wEKXNg.jpeg)
+
+Sabemos que a veces resulta mucho más cómodo, rápido y fácil consultar y comprender una previsión meteorológica basada en sencillos dibujos. Sin embargo es muy recomendable familiarizarnos con la **Predicción de montaña de la AEMET**, pues aporta mucha más información de gran utilidad y ello nos permitirá tomar decisiones más acertadas en la montaña.
 
 Como **federadoss**, debemos conocer qué información da el parte de la AEMET.
 
@@ -25,4 +27,3 @@ Como **federadoss**, debemos conocer qué información da el parte de la AEMET.
 
 Sabemos que hay otras fuentes de información meteorológica, pero nuestra recomendación es que, consultes el número de fuentes que consultes, una de ellas siempre sea la de la AEMET, sobretodo si vas con un grupo más grande, pues esta es la información meteorológica oficial.  
 
-#### En resumen, la AEMET ofrece

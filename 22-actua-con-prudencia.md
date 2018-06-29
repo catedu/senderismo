@@ -1,6 +1,8 @@
 # Actúa con prudencia (22 de 30)
 
-![Actua con prodencia](./gps_files/ACTUA_CON_PRUDENCIA.jpg)Aunque el senderismo no esté considerado como una actividad de alto riesgo la realidad es que gran parte de los rescates suceden a este colectivo.  
+![Actua con prodencia](img/ACTUA_CON_PRUDENCIA.jpg)
+
+Aunque el senderismo no esté considerado como una actividad de alto riesgo la realidad es que gran parte de los rescates suceden a este colectivo.  
 
 Con las decisiones que los senderistas toman sobre la marcha pueden poner en peligro al grupo o provocar o agravar un contratiempo, y como **federados** debemos recordarlo siempre.  
 
@@ -17,4 +19,3 @@ Como norma, estas actitudes son importantes:
 **6\. Usar los mapas y comprobar los horarios**  
 **7.** Comprobar que la **meteorología** no supone un riesgo
 
-#### Recuerda...

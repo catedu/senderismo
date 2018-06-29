@@ -1,6 +1,8 @@
 # Equiparse: Calzado (14 de 30)
 
-![Equipa: calzado](./gps_files/CALZADO.jpg)Con un calzado apropiado se camina más cómodo y con menor esfuerzo, a la vez que se pueden evitar pequeñas pero muy molestas lesiones (rozaduras, ampollas) y prever otras más importantes (tendinitis, esguinces, fracturas).
+![Equipa: calzado](img/CALZADO.jpg)
+
+Con un calzado apropiado se camina más cómodo y con menor esfuerzo, a la vez que se pueden evitar pequeñas pero muy molestas lesiones (rozaduras, ampollas) y prever otras más importantes (tendinitis, esguinces, fracturas).
 
 Para caminar en montaña o caminos **no sirve el mismo calzado que se usa todos los días**: es algo que se olvida con demasiada frecuencia. Por ello hay que tener en cuenta:  
 
@@ -22,4 +24,3 @@ Es recomendable también elegir unos **calcetines** apropiados y llevar un recam
 
 Como **federados**, debemos escoger el calzado adecuado para cada actividad, sin que ello signifique que necesitemos un calzado muy técnico o caro.  
 
-#### Cada tipo de calzado es apto para un tipo de excursión o medio, relaciónalos:

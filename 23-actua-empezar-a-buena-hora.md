@@ -1,6 +1,8 @@
 # Actúa: Empezar a buena hora (23 de 30)
 
-![Actúa: horario](./gps_files/EMPIEZA.jpg)La **hora  de inicio** de la actividad debe guardar relación con el **tiempo total para realizarla**, el tipo de grupo con el que se vaya y la **previsión meteorológica**.
+![Actúa: horario](img/EMPIEZA.jpg)
+
+La **hora  de inicio** de la actividad debe guardar relación con el **tiempo total para realizarla**, el tipo de grupo con el que se vaya y la **previsión meteorológica**.
 
 No siempre es necesario madrugar mucho, pero con el objetivo de que un imprevisto no obligue a pasar la noche en la montaña debemos calcular que **entre el horario de regreso y la puesta del sol haya un mínimo de 4-5 horas de diferencia**.  
 
@@ -10,4 +12,3 @@ Madrugar también es bueno para **evitar estar en la montaña en las horas de m�
 
 Como **federados** **debemos intentar iniciar la actividad en buena hora**.
 
-#### Si ello ya no es posible: porque se nos ha echado el tiempo encima y no queremos renunciar a nuestra actividad, debemos actuar de la siguiente manera:

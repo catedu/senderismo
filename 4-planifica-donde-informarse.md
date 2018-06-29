@@ -1,6 +1,8 @@
 # Planifica: ¿Dónde Informarse? (4 de 30)  
 
-![Donde informarse](./gps_files/EN_RESUMEN.jpg)Como **federado**, deberás buscar información de la actividad que quieras realizar. Es probable que haya disponible mucha información útil sobre el recorrido escgido,sobre todo si está balizado. Las **fuentes de información** más habituales son:  
+![Donde informarse](img/EN_RESUMEN.jpg)
+
+Como **federado**, deberás buscar información de la actividad que quieras realizar. Es probable que haya disponible mucha información útil sobre el recorrido escgido,sobre todo si está balizado. Las **fuentes de información** más habituales son:  
 
 **A. Libros, guías, folletos**, y resto de material editado y publicado, a la venta o no  
 
@@ -20,4 +22,3 @@ Algunas Webs de referencia que os proponemos son:
 **\- Webs turísticas de las comarcas  
 **
 
-#### Como **federado** deberás buscar información por tu cuenta antes de realizar la actividad, señala qué 2 fuentes son las más que más fiabilidad te generan (aun sabiendo que las otras existen y pueden ser consultadas):

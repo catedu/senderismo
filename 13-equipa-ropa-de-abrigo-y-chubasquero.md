@@ -1,6 +1,8 @@
 # Equiparse: Ropa de abrigo y chubasquero (13 de 30)
 
-![Equipa: ropa de abrigo](./gps_files/ROPA_DE_ABRIGO.jpg)No conviene dejar de recordar nunca que el medio natural es muy cambiante y por ello **conviene llevar siempre, incluso en verano, prendas que nos protejan del frío, del agua y del viento**.
+![Equipa: ropa de abrigo](img/ROPA_DE_ABRIGO.jpg)
+
+No conviene dejar de recordar nunca que el medio natural es muy cambiante y por ello **conviene llevar siempre, incluso en verano, prendas que nos protejan del frío, del agua y del viento**.
 
 Las oscilaciones térmicas en una excursión pueden ser significativas en cualquier época del año en función de la meteorología local, la altitud, la orientación del camino, la existencia o no de arbolado... 
 
@@ -10,4 +12,3 @@ La combinación de viento y frío puede ser peligrosa, a eso remite el **concept
 
 Y recordad:¡ las primeras **nevadas** en el Pirineo siempre suelen caer en el mes de **agosto**!  
 
-#### Como **federados**, no olvides...

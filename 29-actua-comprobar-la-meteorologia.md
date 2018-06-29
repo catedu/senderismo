@@ -1,6 +1,8 @@
 # Actúa: Comprobar la meteorología (29 de 30)
 
-![Actúa: meteo](./gps_files/434f4d5052554542415f4c415f6d6f6e7461c3b161.jpg)Debemos recordar que durante el recorrido conviene comprobar la evolución de la meteorología pues, a pesar de lo que digan las previsiones, ésta puede empeorar o variar.
+![Actúa: meteo](img/434f4d5052554542415f4c415f6d6f6e7461c3b161.jpg)
+
+Debemos recordar que durante el recorrido conviene comprobar la evolución de la meteorología pues, a pesar de lo que digan las previsiones, ésta puede empeorar o variar.
 
 Hoy la información disponible es bastante fiable pero las variaciones a nivel local pueden ser importantes.
 
@@ -18,4 +20,3 @@ No hacer caso a la meteorología puede generar estos problemas inesperados:
 *   Las **variaciones meteorológicas** (temperatura, viento, humedad) pueden ser muy **repentinas y** **acusadas**
 *   Hay una menor **densidad del aire** (menos cantidad de oxígeno) y la **radiación solar** es mayor
 
-#### Como federados, conviene que recordéis que...
