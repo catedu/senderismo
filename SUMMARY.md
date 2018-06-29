@@ -32,3 +32,7 @@
 * [28. Actúa: Usar los mapas     ](28-actua-usar-los-mapas.md)
 * [29. Actúa: Comprobar la meteorología     ](29-actua-comprobar-la-meteorologia.md)
 * [30. Felicidades: estás a punto de terminar el curso     ](30-felicidades-estas-a-punto-de-terminar-el-curso.md)
+
+___
+
+* [Créditos](crditos-buenos.md)
